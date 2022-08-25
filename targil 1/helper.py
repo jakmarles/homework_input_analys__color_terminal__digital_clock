@@ -13,7 +13,7 @@ def input_analyst():
     #Return True if the string is a numeric string, False otherwise.
     if user_input.isnumeric():   
      print("Entered user_input is Integer:", user_input)
-     num = int(user_input) #if its a int set num as the inputed value
+     num = int(user_input) #if its an int set num as the inputed value
     else:
      print("Entered user_input is a string") #if the inputed data is a string print so and stop the function
      return
