@@ -23,9 +23,9 @@ def input_analyst():
         
     
     if (num % 2) == 0: # check if the number is even or odd
-     print("{} is Even".format(num))
+     print("{} is an Even number".format(num))
     else:
-     print("{} is Odd".format(num))
+     print("{} is an Odd number".format(num))
 
     if num % 7 == 0: # check if the number is divisible by 7 without a remainder or not
          print("{} divisible by 7 without a remainder".format(num))
