@@ -31,6 +31,6 @@ def input_analyst():
          print("{} divisible by 7 without a remainder".format(num))
     else:
          print("{} isnt divisible by 7 without a remainder".format(num))
-
+ 
 
     
